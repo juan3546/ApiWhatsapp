@@ -1,0 +1,15 @@
+[1214/122412.069:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1214/122414.266:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[1214/122414.266:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[1214/122414.266:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[1214/122414.366:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[1214/122424.515:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1214/122425.564:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1214/122425.944:INFO:CONSOLE(2)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (2)
+[1214/123147.287:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123153.630:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123203.645:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123223.658:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123357.954:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123402.975:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[1214/123412.987:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
